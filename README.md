@@ -1,2 +1,4 @@
-# phpProjects
-This repository hoses all PHP coded projects
+# PHP Projects
+This repository houses all PHP coded projects
+
+- Project One - PHP Login System
